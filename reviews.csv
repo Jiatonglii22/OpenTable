@@ -1,0 +1,24 @@
+review_id,overall_rating,food_rating,service_rating,ambience_rating,description,dined_date,user_id,restaurant_id
+REV1,4.5,4.5,4.5,4.5,I enjoyed the food and the service was excellent!,2022-11-28,U2,REST2
+REV2,4.2,4.2,4.2,4.2,I didn't know what to expect and it was a pleasant surprise,2022-11-29,U3,REST2
+REV3,3.9,3.9,3.9,3.9,Average,2022-11-28,U1,REST4
+REV4,4.7,4.7,4.7,4.7,Quality of food was amazing!,2022-11-25,U4,REST3
+REV5,4.2,4.2,4.1,4.3,Food arrived quickly,2022-11-27,U5,REST1
+REV6,3.6,3.7,3.5,3.6,Did not enjoy my experience,2022-11-13,U10,REST3
+REV7,4.0,4.0,4.0,4.0,It was okay,2022-11-23,U3,REST7
+REV8,4.9,5.0,4.8,4.9,Food was delicious and staff was very friendly!,2022-11-17,U9,REST4
+REV9,3.2,3.5,2.9,3.2,Don't think I will come back,2022-11-26,U6,REST9
+REV10,3.5,3.5,3.5,3.5,Average and nothing special,2022-11-29,U2,REST2
+REV11,4.2,4.2,4.2,4.2,Food was cooked well,2022-11-23,U14,REST6
+REV12,3.6,3.7,3.5,3.6,Had an okay time,2022-11-16,U1,REST10
+REV13,4.5,4.4,4.6,4.5,Excited to come back again!,2022-11-18,U15,REST2
+REV14,4.1,4.1,4.1,4.1,Ambience was nice,2022-11-27,U11,REST10
+REV15,4.8,4.8,4.8,4.8,That best thing I've ever tried!,2022-11-15,U5,REST8
+REV16,4.6,4.5,4.7,4.6,Nice music playing in the background,2022-11-21,U12,REST7
+REV17,4.4,4.3,4.4,4.5,Food was fresh and tasted amazing,2022-11-27,U5,REST1
+REV18,4.1,4.1,4.1,4.1,Nice experience,2022-11-24,U7,REST8
+REV19,4.5,4.5,4.5,4.5,Good quality ingredients used in their dishes,2022-11-19,U13,REST8
+REV20,4.7,4.6,4.8,4.7,Had a wonderful time here,2022-11-17,U5,REST8
+REV21,1.6,1.6,1.6,1.6,Did not enjoy the food here,2022-11-01,U3,REST2
+REV22,1.0,1.0,1.0,1.0,Food was slow and service was bad,2022-11-03,U8,REST2
+REV23,1.5,1.5,1.5,1.5,Did not like how the food was,2022-11-05,U10,REST2

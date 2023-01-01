@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,rating,address,restaurant_phone_num
+REST1,Floor 2,4.2,1235 random ave. Pittsburgh ,1112223333
+REST2,The Commoner,4.5,9763 random st. Pittsburgh,2223334444
+REST3,Silk Elephant,4.1,6592 random dr. Pittsburgh,3334445555
+REST4,Emerson's,4.5,3692 random ave. Pittsburgh,5556667777
+REST5,Grand Concourse,4.6,4723 random st. Pittsburgh,6667778888
+REST6,Little Asia,3.9,3982 that st. Pittsburgh,3388283831
+REST7,Thai Palace,3.6,3049 this ave. Pittsburgh,2084239211
+REST8,Chinese Gourmet,4.2,3494 mysterious dr. Pittsburgh,2934181032
+REST9,Oh Pizza,3.7,1398 unknown st. Pittsburgh,3034732984
+REST10,Little Lamb Hotpot,4.7,2349 fake ave. Pittsburgh,3729429411
