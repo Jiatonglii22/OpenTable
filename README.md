@@ -8,6 +8,6 @@ To initialize the database, type the following (without '%') in the command line
 
 % psql -d postgres -U isdb -f initialize.sql
 
-To run individual SQL queries, type python (without '&') followed by the python file name in the command line: 
+To run individual SQL queries, type python (without '%') followed by the python file name in the command line: 
 
 example: % python complex_query_1.py 
